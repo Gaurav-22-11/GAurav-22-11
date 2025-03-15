@@ -7,7 +7,7 @@ I am a **Master's student in Data Science at the University of Maryland, College
 I am passionate about AI, NLP, and brain-computer interfaces. Some of my research includes:  
 - 🧠 **EEG-based Image Generation** (BCI 2024)  
 - 📚 **Cross-Lingual Information Retrieval for Medical Knowledge** (IJISRT)  
-- 📊 **Survey on EEG Wave Deciphering** (ISI 2023 - In Press)  
+- 📊 **Survey on EEG Wave Deciphering** (ISI 2023)  
 
 ## 💻 Technical Skills  
 - **Programming:** Python, Java, C, R, SQL, Unix Shell Scripting  
